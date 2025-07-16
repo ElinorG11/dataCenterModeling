@@ -1,7 +1,8 @@
 # Optimal Control of Data Centers as Flexible Loads Under Uncertainty
 
+<div align="center">
 <img width="512" height="512" alt="Data_Centers_Demand_Response" src="https://github.com/user-attachments/assets/c33cfba7-78bb-47a0-aa7c-d5ba0fd30d5e" />
-
+</div>
 
 This repository contains the implementation and simulation code for the research presented in the paper "[Optimal Control of Data Centers as Flexible Loads Under Uncertainty Conditions]([Link to your paper, e.g., arXiv or IEEE Xplore])" by Elinor Ginzburg-Ganz, Yoash Levron, and Anna Scaglione.
 
